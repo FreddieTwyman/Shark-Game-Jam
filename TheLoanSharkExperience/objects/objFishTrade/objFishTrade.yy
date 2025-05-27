@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"objBills",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"objFishTrade",
+  "eventList":[],
   "managed":true,
-  "name":"objBills",
+  "name":"objFishTrade",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprBills",
-    "path":"sprites/sprBills/sprBills.yy",
+    "name":"sprFish",
+    "path":"sprites/sprFish/sprFish.yy",
   },
   "spriteMaskId":null,
   "visible":true,

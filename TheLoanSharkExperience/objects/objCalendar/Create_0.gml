@@ -9,8 +9,8 @@ weekDays[6] = "Finday";
 
 events = [
 "Shark",
-"Sale",
-"Bills"
+"Fish Trade",
+"Quiz"
 ];
 
 days[0] = 0;
@@ -44,3 +44,4 @@ if (days[currentDay]=="Shark")
 	instance_create_layer(-10,room_height/2,"Instances",objBruce);
 }
 
+lockTime = false;
