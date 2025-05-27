@@ -26,27 +26,34 @@ if(keyboard_check_pressed(ord("R")))
 	game_restart();
 }
 
-if(keyboard_check_pressed(vk_space) and !lockTime) 
+if(calendarVisible)
 {
-	currentDay++;
-	if(currentDay>6) currentDay=0;
-	
+	calendarTimer++;
+	if(calendarTimer==calendarTime)
+	{
+		calendarVisible = false;
+		calendarTimer = 0;
+	}
+}
+else if(!timeLocked)
+{
+	timeLocked = true;
 	if (days[currentDay]=="Shark")
 	{
 		instance_create_layer(-10,room_height/2,"Instances",objBruce);
-		//lockTime = true;
 	}
 	
-	if (days[currentDay]=="Fish Trade")
+	else if (days[currentDay]=="Fish Trade")
 	{
 		instance_create_layer(room_width/2,room_height/2,"Instances",objFishTrade);
-		lockTime = true;
 	}
 	
-	if (days[currentDay]=="Quiz")
+	else if (days[currentDay]=="Quiz")
 	{
 		instance_create_layer(room_width/2,room_height/2,"Instances",objQuiz);
-		//lockTime = true;
 	}
-
+	else
+	{
+		instance_create_layer(room_width/2,room_height/2,"Instances",objNextDay);
+	}
 }
