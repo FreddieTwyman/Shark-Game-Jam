@@ -35,7 +35,9 @@
   },
   "name":"TheLoanSharkExperience",
   "resources":[
+    {"id":{"name":"objTest","path":"objects/objTest/objTest.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprTest","path":"sprites/sprTest/sprTest.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
