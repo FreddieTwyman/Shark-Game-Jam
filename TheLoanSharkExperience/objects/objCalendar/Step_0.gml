@@ -36,5 +36,10 @@ if(keyboard_check_pressed(vk_space))
 		instance_create_layer(-10,room_height/2,"Instances",objBruce);
 	}
 	
+	if (days[currentDay]=="Bills")
+	{
+		instance_create_layer(-10,room_height/2,"Instances",objBills);
+	}
+	
 
 }
