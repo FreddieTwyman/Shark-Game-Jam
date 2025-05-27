@@ -1,2 +1,1 @@
-# Shark Game Jam
-Game jam about loan sharks
+Arron and Bazza are pixel pushers
