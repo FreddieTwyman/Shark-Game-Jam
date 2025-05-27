@@ -45,6 +45,7 @@
     {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"id":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
     {"id":{"name":"rmOptions","path":"rooms/rmOptions/rmOptions.yy",},},
+    {"id":{"name":"sprBG","path":"sprites/sprBG/sprBG.yy",},},
     {"id":{"name":"sprBruce","path":"sprites/sprBruce/sprBruce.yy",},},
     {"id":{"name":"sprButton","path":"sprites/sprButton/sprButton.yy",},},
     {"id":{"name":"sprCalendar","path":"sprites/sprCalendar/sprCalendar.yy",},},
