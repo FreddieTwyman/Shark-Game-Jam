@@ -7,14 +7,9 @@ if(keyboard_check_pressed(ord("R")))
 	days[4] = 0;
 	days[5] = 0;
 	days[6] = 0;
-
+	
 	randomize();
 
-	events = [
-	"Shark",
-	"Sale",
-	"Bills"
-	];
 
 	for (var i = 0; i<array_length(events); i++)
 	{
@@ -28,14 +23,4 @@ if(keyboard_check_pressed(ord("R")))
 			i--;		
 		}
 	}
-
-	weekDays[0] = "Monday";
-	weekDays[1] = "Tuesday";
-	weekDays[2] = "Wednesday";
-	weekDays[3] = "Thursday";
-	weekDays[4] = "Friday";
-	weekDays[5] = "Saturday";
-	weekDays[6] = "Sunday";
-
-
 }
