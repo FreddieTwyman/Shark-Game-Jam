@@ -38,6 +38,7 @@ if(calendarVisible)
 else if(!timeLocked)
 {
 	timeLocked = true;
+	objSwitch.mode = 2;
 	//shark
 	if (days[currentDay]=="Shark")
 	{
