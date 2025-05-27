@@ -9,8 +9,12 @@ weekDays[6] = "Finday";
 
 events = [
 "Shark",
-"Fish Trade",
-"Quiz"
+"Fish Trade 1",
+"Fish Trade 2",
+"Fish Trade 3",
+"Quiz 1",
+"Quiz 2",
+"Quiz 3"
 ];
 
 days[0] = 0;
