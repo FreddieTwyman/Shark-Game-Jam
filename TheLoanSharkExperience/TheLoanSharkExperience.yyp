@@ -43,6 +43,7 @@
     {"id":{"name":"objTest","path":"objects/objTest/objTest.yy",},},
     {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"id":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
+    {"id":{"name":"rmOptions","path":"rooms/rmOptions/rmOptions.yy",},},
     {"id":{"name":"sprBills","path":"sprites/sprBills/sprBills.yy",},},
     {"id":{"name":"sprBruce","path":"sprites/sprBruce/sprBruce.yy",},},
     {"id":{"name":"sprButton","path":"sprites/sprButton/sprButton.yy",},},
@@ -54,6 +55,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
     {"roomId":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
+    {"roomId":{"name":"rmOptions","path":"rooms/rmOptions/rmOptions.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
