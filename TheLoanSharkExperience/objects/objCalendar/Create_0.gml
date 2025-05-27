@@ -36,5 +36,11 @@ for (var i = 0; i<array_length(events); i++)
 	}
 }
 
+currentDay = 0;
 
+
+if (days[currentDay]=="Shark")
+{
+	instance_create_layer(-10,room_height/2,"Instances",objBruce);
+}
 

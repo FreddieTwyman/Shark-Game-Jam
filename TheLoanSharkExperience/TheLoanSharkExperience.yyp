@@ -35,9 +35,12 @@
   },
   "name":"TheLoanSharkExperience",
   "resources":[
+    {"id":{"name":"objBruce","path":"objects/objBruce/objBruce.yy",},},
     {"id":{"name":"objCalendar","path":"objects/objCalendar/objCalendar.yy",},},
     {"id":{"name":"objTest","path":"objects/objTest/objTest.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprBruce","path":"sprites/sprBruce/sprBruce.yy",},},
+    {"id":{"name":"sprScreenStart","path":"sprites/sprScreenStart/sprScreenStart.yy",},},
     {"id":{"name":"sprTest","path":"sprites/sprTest/sprTest.yy",},},
   ],
   "resourceType":"GMProject",
