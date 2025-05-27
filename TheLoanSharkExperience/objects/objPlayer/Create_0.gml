@@ -1,2 +1,2 @@
-oxygen = 0;
-repair = 0;
+oxygen = 8;
+repair = 6;

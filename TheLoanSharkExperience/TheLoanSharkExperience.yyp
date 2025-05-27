@@ -50,6 +50,8 @@
     {"id":{"name":"sprCalendar","path":"sprites/sprCalendar/sprCalendar.yy",},},
     {"id":{"name":"sprFish","path":"sprites/sprFish/sprFish.yy",},},
     {"id":{"name":"sprNextDay","path":"sprites/sprNextDay/sprNextDay.yy",},},
+    {"id":{"name":"sprOxygen","path":"sprites/sprOxygen/sprOxygen.yy",},},
+    {"id":{"name":"sprScrap","path":"sprites/sprScrap/sprScrap.yy",},},
     {"id":{"name":"sprScreenStart","path":"sprites/sprScreenStart/sprScreenStart.yy",},},
   ],
   "resourceType":"GMProject",
