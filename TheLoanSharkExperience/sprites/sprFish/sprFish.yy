@@ -19,6 +19,7 @@
   "height":51,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"de321522-2f78-458a-9e8f-d5d50edde18a","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"de321522-2f78-458a-9e8f-d5d50edde18a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"4ba698c1-91ef-48b0-9e42-b1874844cf5c","blendMode":0,"displayName":"default","isLocked":false,"name":"4ba698c1-91ef-48b0-9e42-b1874844cf5c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sprFish",
