@@ -1,0 +1,1 @@
+draw_text_ext(x,y,displayText,1,100);

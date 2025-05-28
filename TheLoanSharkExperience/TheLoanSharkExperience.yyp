@@ -28,7 +28,9 @@
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"TinyIslanders-nOYg.ttf","CopyToMask":-1,"filePath":"datafiles","name":"TinyIslanders-nOYg.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -36,6 +38,7 @@
   },
   "name":"TheLoanSharkExperience",
   "resources":[
+    {"id":{"name":"fntGame","path":"fonts/fntGame/fntGame.yy",},},
     {"id":{"name":"objBruce","path":"objects/objBruce/objBruce.yy",},},
     {"id":{"name":"objCalendar","path":"objects/objCalendar/objCalendar.yy",},},
     {"id":{"name":"objFishTrade","path":"objects/objFishTrade/objFishTrade.yy",},},
@@ -49,6 +52,7 @@
     {"id":{"name":"rmOptions","path":"rooms/rmOptions/rmOptions.yy",},},
     {"id":{"name":"sndAmbience","path":"sounds/sndAmbience/sndAmbience.yy",},},
     {"id":{"name":"sndMusic","path":"sounds/sndMusic/sndMusic.yy",},},
+    {"id":{"name":"sndSwitch0","path":"sounds/sndSwitch0/sndSwitch0.yy",},},
     {"id":{"name":"sprBG","path":"sprites/sprBG/sprBG.yy",},},
     {"id":{"name":"sprBruce","path":"sprites/sprBruce/sprBruce.yy",},},
     {"id":{"name":"sprButton","path":"sprites/sprButton/sprButton.yy",},},
