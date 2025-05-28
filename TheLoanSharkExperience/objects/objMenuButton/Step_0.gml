@@ -16,11 +16,12 @@ if(menu=="Start")
 	{
 		room=rmGame;
 	}
+	sprite_index=sprPlay;
 }
 
 if(menu=="Options")
 {
-	
+	sprite_index=sprOptions;
 }
 
 if(menu=="Quit")
@@ -29,6 +30,7 @@ if(menu=="Quit")
 	{
 		game_end();
 	}
+	sprite_index=sprQuit;
 }
 
 if(menu=="Name")

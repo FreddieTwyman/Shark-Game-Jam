@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"sndSwitch0",
+  "%Name":"sndSwitch1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.6394331,
-  "name":"sndSwitch0",
+  "duration":1.6153742,
+  "name":"sndSwitch1",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"sndSwitch0.wav",
+  "soundFile":"sndSwitch1.wav",
   "type":0,
   "volume":1.0,
 }
