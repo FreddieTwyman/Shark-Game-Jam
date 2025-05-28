@@ -1,3 +1,5 @@
+myTrade = trades[dialogue-1];
+
 if(cooldownTimer==cooldownTime)
 {
     position++;

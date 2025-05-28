@@ -20,4 +20,3 @@ trades[2][1] = 1; //scrap
 trades[2][2] = -1; //oxygen
 trades[2][3] = 0; //money
 
-myTrade = trades[dialogue-1];

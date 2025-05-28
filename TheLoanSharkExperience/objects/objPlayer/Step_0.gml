@@ -7,4 +7,15 @@ repair=clamp(repair,1,6);
 
 oxygen-=0.01;
 
-show_debug_message(oxygen);
+if(keyboard_check_pressed(vk_space))
+{
+	dead = true;
+}
+
+if(dead)
+{
+	pitch-=0.01;
+	pitch = clamp(pitch,0.5,1);
+}
+
+audio_sound_pitch(music,pitch);
