@@ -3,6 +3,12 @@ if(keyboard_check_pressed(ord("R")))
 	game_restart();
 }
 
+if(currentDay=7)
+{
+	room=rmGameOver;	
+	
+}
+
 if(calendarVisible)
 {
 	calendarTimer++;

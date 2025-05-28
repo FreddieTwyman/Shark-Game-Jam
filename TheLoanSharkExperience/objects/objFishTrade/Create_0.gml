@@ -1,7 +1,7 @@
 position = 0;
 displayText = "";
 //how many frames between each letter being printed
-cooldownTime = 3;
+cooldownTime = 1;
 cooldownTimer = 0;
 
 //dialogue, scrap, oxygen, money

@@ -1,8 +1,7 @@
 position = 0;
-textToDisplay = "Howdy, stranger. Can I ask you a question? I'm supposed to be marrying my shoalmate later today but her credit score ain't so good! That won't affect my credit score right?";
 displayText = "";
 //how many frames between each letter being printed
-cooldownTime = 3;
+cooldownTime = 1;
 cooldownTimer = 0;
 
 
@@ -21,3 +20,8 @@ questions[2][0]="I get paid 4 days AFTER my bill payments come through. Money's 
 questions[2][1]="You're Right! This way none of my payments will bounce back and mess up my credit score!";
 questions[2][2]="Oh for goodness hake! I suppose we'll just have to tighten our belts or take out lots and lots of credit cards. Yeah! That wouldn't affect my credit score negatively at all!";
 questions[2][3]="Yes";
+
+stage = 0;
+
+time = 120;
+timer=0;
