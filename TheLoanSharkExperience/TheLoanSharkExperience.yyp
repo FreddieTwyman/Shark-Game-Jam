@@ -31,7 +31,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.13.0.190",
   },
   "name":"TheLoanSharkExperience",
   "resources":[
@@ -56,6 +56,9 @@
     {"id":{"name":"sprScrap","path":"sprites/sprScrap/sprScrap.yy",},},
     {"id":{"name":"sprScreenStart","path":"sprites/sprScreenStart/sprScreenStart.yy",},},
     {"id":{"name":"sprSwitch","path":"sprites/sprSwitch/sprSwitch.yy",},},
+    {"id":{"name":"sprTradeEvent1","path":"sprites/sprTradeEvent1/sprTradeEvent1.yy",},},
+    {"id":{"name":"sprTradeEvent2","path":"sprites/sprTradeEvent2/sprTradeEvent2.yy",},},
+    {"id":{"name":"spTradeEvent3","path":"sprites/spTradeEvent3/spTradeEvent3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
