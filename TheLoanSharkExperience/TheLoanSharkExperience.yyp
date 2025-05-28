@@ -38,6 +38,7 @@
   },
   "name":"TheLoanSharkExperience",
   "resources":[
+    {"id":{"name":"fntDialogue","path":"fonts/fntDialogue/fntDialogue.yy",},},
     {"id":{"name":"fntGame","path":"fonts/fntGame/fntGame.yy",},},
     {"id":{"name":"objBruce","path":"objects/objBruce/objBruce.yy",},},
     {"id":{"name":"objCalendar","path":"objects/objCalendar/objCalendar.yy",},},
