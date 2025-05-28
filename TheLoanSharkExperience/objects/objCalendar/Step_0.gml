@@ -20,7 +20,7 @@ else if(!timeLocked)
 	//shark
 	if (days[currentDay]=="Shark")
 	{
-		instance_create_layer(-10,room_height/2,"Instances",objBruce);
+		instance_create_layer(room_width/2,room_height/2,"Instances",objBruce);
 	}
 	//fish trades
 	else if (days[currentDay]=="Fish Trade 1")

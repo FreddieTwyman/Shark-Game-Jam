@@ -32,8 +32,3 @@ if(menu=="Quit")
 	}
 	sprite_index=sprQuit;
 }
-
-if(menu=="Name")
-{
-	
-}
